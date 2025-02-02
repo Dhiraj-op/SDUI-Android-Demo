@@ -79,12 +79,9 @@ The app expects a specific structure in Firebase Realtime Database. Each UI comp
 
 2. **Card**
    - Properties: title, description
-   - Elevated design with Material 3 styling
 
 3. **Banner**
    - Properties: message
-   - Full-width display with primary color background
-
 
 ## Acknowledgments
 
