@@ -1,0 +1,26 @@
+{
+  "featured_content": {
+    "layout": [
+      {
+        "type": "header",
+        "properties": {
+          "title": "Welcome to Our App",
+          "textColor":"RED"
+        }
+      },
+      {
+        "type": "card",
+        "properties": {
+          "title": "Featured Item",
+          "description": "Check out our latest content!"
+        }
+      },
+      {
+        "type": "banner",
+        "properties": {
+          "message": "Special offer available now!"
+        }
+      }
+    ]
+  }
+}

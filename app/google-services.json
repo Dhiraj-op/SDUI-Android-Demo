@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910121354344",
+    "project_id": "sdui-adf54",
+    "storage_bucket": "sdui-adf54.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910121354344:android:50db1761bf80583f8ee7dd",
+        "android_client_info": {
+          "package_name": "com.example.sdui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4o08RbGsZHDsZOqE5ApUl-ehv5lvDmC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
